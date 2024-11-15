@@ -6,7 +6,7 @@ export default function Document() {
     <Html lang="en">
       <Head>
         <Meta content="width=device-width, initial-scale=1" name="viewport"/>
-        <title>Obsidian代理服务</title>
+        <title>哈哈</title>
       </Head>
       <body>
       <Main/>
